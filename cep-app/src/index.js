@@ -1,4 +1,4 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-ReactDOM.render(<h1>OI</h1>, document.getElementById("root"));
+ReactDOM.render(<h1>Oi</h1>, document.getElementById("root"));
